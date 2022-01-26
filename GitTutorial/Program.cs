@@ -7,6 +7,7 @@ namespace GitTutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World From GitTutorial");
+            Console.WriteLine("tesst");
         }
     }
 }
